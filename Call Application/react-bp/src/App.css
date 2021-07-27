@@ -1,0 +1,22 @@
+.ui.container{
+  text-align: center;
+  margin-top: 5%;
+}
+.dialForm label {
+	width: 30% !important;
+	font-size: 18px !important;
+	text-align: left;
+}
+select, input {
+	width: 50% !important
+}
+.callBtn {
+	margin-top: 30px !important;
+}
+.timer-wrapper {
+	display: flex;
+	justify-content: space-evenly;
+}
+.time{
+  font-size: 35px;
+}
